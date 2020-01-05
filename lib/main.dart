@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_neumorphism/styles.dart';
 
-
-
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -70,12 +68,9 @@ class _HomePageState extends State<HomePage> {
               child: TextField(
                 decoration: InputDecoration.collapsed(
                   hintText: "Search",
-                  
-                ),
-                
+                ), 
               ),
             ),
-            
             _buildIcon(Icons.mic),
           ],
         ),
@@ -86,6 +81,7 @@ class _HomePageState extends State<HomePage> {
   Widget _buildLogo(){
     return Image.asset("assets/logo.png", width: MediaQuery.of(context).size.width * .25);
   }
+  
   Widget _buildIcon(IconData icon){
     return Container(
       margin: EdgeInsets.symmetric(horizontal: 24,vertical: 12),
