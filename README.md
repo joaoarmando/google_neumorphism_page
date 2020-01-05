@@ -1,16 +1,10 @@
-# google_neumorphism
+# Google Page Neumorphism
 
-A new Flutter project.
 
-## Getting Started
+## Flutter web
 
-This project is a starting point for a Flutter application.
+Thanks -[Kanhaiya Sharma](https://medium.com/@ikanhaiyasharma/) for the -[inspiration](https://uxplanet.org/neumorphism-is-not-a-replacement-ux-and-resources-38ca5faf375e);
 
-A few resources to get you started if this is your first Flutter project:
+![Google Page Neumorphism Exemplo](https://github.com/joaoarmando/google_neumorphism_page/blob/master/img.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple flutter web project, witch represents a Google page redsign.
